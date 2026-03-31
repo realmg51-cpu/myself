@@ -1,2 +1,2 @@
 # myself
-Một dự án vui vit bằng C#
+Một dự án vui viết bằng C#
